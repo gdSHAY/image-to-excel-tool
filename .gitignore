@@ -1,0 +1,22 @@
+# Never commit authorization, source images, tasks or runtime files
+data/
+.env
+.env.*
+*.enc
+master.key
+*.log
+# Private environment and generated artifacts
+.venv/
+node_modules/
+runtime/
+release/
+verification/
+output/
+.tools/
+__pycache__/
+*.py[cod]
+*.exe
+*.zip
+.pytest_cache/
+.pip-cache/
+.npm-cache/
