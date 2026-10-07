@@ -1,4 +1,5 @@
 <div align="center">
+
 **简体中文** | [English](./README.en.md)
 
 <img src="./docs/poster-features.png" width="680" alt="核心特点海报：低分筛选、透视增强、图片校对、数字导出">

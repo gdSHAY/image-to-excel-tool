@@ -1,4 +1,5 @@
 <div align="center">
+
 [简体中文](./README.md) | **English**
 
 <img src="./docs/poster-features.png" width="680" alt="Feature poster: confidence filtering, image correction, visual editing, numeric export">
